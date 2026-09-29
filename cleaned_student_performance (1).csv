@@ -1,0 +1,16 @@
+Name,Age,Gender,Study_Hours,Attendance,Math_Score,English_Score
+Ali,20,Male,4.0,85.0,78.0,72
+Sara,21,Female,6.0,92.0,88.0,91
+Ahmed,19,Male,5.0,76.0,65.0,70
+Ayesha,22,Female,7.0,95.0,92.0,89
+Hamza,20,Male,5.0,88.0,80.0,77
+Zainab,21,Female,4.0,82.0,75.0,84
+Bilal,23,Male,2.0,87.0,58.0,62
+Fatima,20,Female,8.0,97.0,95.0,94
+Usman,22,Male,5.0,90.0,83.0,79
+Hira,19,Female,3.0,74.0,68.0,73
+Saad,21,Male,6.0,89.0,78.5,81
+Maryam,20,Female,5.0,86.0,79.0,88
+Hassan,23,Male,2.0,65.0,55.0,60
+Noor,19,Female,7.0,94.0,91.0,93
+Daniyal,22,Male,4.0,80.0,72.0,75
